@@ -1,8 +1,7 @@
 ### Hi I'm Gabriel Amaro 👋
 
 - 🔭 I’m currently working on Accenture with Cloud Architecture and Infrastructure Modernization
-- 🌱 I’m currently learning Terraform, Python and Patterns
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning AIOps, Observability, Kubernetes, Cloud, Ansible, Terraform, Python and Architecture Patterns
 - 📖 Co-author of the book <a href = "https://www.amazon.com.br/Jornada-SRE-Brasil-confiabilidade-experi%C3%AAncia-ebook/dp/B0CCC5RPJQ">Jornada SRE no Brasil: Uniting Reliability Engineering Concepts and Practices to Improve the Customer Experience</a>
 - 🎙️ Invited to talk about observability on the <a href = "https://open.spotify.com/episode/7whteMv0HR9PDbGlqMH08r?si=WxwqHobQRAOGaJivqwB29Q">Rede Geek Podcast</a>
 
