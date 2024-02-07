@@ -24,6 +24,11 @@
 
 ## View my verified badges
 <!--START_SECTION:badges-->
+[![Certified SAFe® 5 Architect](https://images.credly.com/size/110x110/images/43d1e1c6-cee8-4fe5-86bb-f952aa77a179/cert_mark_ARCH_badge_large_300px.png)](http://www.credly.com/badges/124778f7-c632-42d6-9ccc-77b16e46e95a "Certified SAFe® 5 Architect")
+[![Dynatrace Partner Sales](https://images.credly.com/size/110x110/images/853f24d5-cdc0-4b06-b01d-c4e99669f1c8/image.png)](http://www.credly.com/badges/da4479cf-d991-4db6-a02d-fd3730180271 "Dynatrace Partner Sales")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/0c310898-08a8-4fbc-aa4f-8cb8be686f3e "Microsoft Certified: Azure Fundamentals")
+[![Oracle Cloud Infrastructure Foundations 2020 Certified Associate](https://images.credly.com/size/110x110/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png)](http://www.credly.com/badges/8c2ab82d-0bbf-444a-8d41-f2935046ef7e "Oracle Cloud Infrastructure Foundations 2020 Certified Associate")
+[![Dynatrace Associate](https://images.credly.com/size/110x110/images/510a073b-6d1a-4f88-a17a-2f35623a3e43/image.png)](http://www.credly.com/badges/7c410ba0-5b40-4e9a-9d0b-9cd76822eb70 "Dynatrace Associate")
 <!--END_SECTION:badges-->
 
 <h3 align="left">Support:</h3>
