@@ -27,6 +27,9 @@
 
 ## View my verified badges
 <!--START_SECTION:badges-->
+[![LFS169: Introduction to GitOps](https://images.credly.com/size/110x110/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](http://www.credly.com/badges/07831f06-559f-490f-96ac-4ed2ae0b2fe9 "LFS169: Introduction to GitOps")
+[![LFS158: Introduction to Kubernetes](https://images.credly.com/size/110x110/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](http://www.credly.com/badges/33ef1577-bc7b-4133-9321-4312efb180d0 "LFS158: Introduction to Kubernetes")
+[![LFS148: Getting Started with OpenTelemetry](https://images.credly.com/size/110x110/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob)](http://www.credly.com/badges/685defd2-d1a1-4dab-ade3-3de677835449 "LFS148: Getting Started with OpenTelemetry")
 [![GitOps Fundamentals](https://images.credly.com/size/110x110/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob)](http://www.credly.com/badges/96af0f1f-837e-47f8-9047-67004dc8095b "GitOps Fundamentals")
 [![Certified SAFe® 5 Architect](https://images.credly.com/size/110x110/images/43d1e1c6-cee8-4fe5-86bb-f952aa77a179/cert_mark_ARCH_badge_large_300px.png)](http://www.credly.com/badges/124778f7-c632-42d6-9ccc-77b16e46e95a "Certified SAFe® 5 Architect")
 [![Dynatrace Partner Sales](https://images.credly.com/size/110x110/images/853f24d5-cdc0-4b06-b01d-c4e99669f1c8/image.png)](http://www.credly.com/badges/da4479cf-d991-4db6-a02d-fd3730180271 "Dynatrace Partner Sales")
